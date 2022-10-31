@@ -75,5 +75,13 @@ h1, h2 {
 
 #about-us {
     height:600px;
+}
+
+#about-us h1 {
     text-align: center;
+    margin-top:30px;
+}
+
+#our-story {
+    float:left;
 }
