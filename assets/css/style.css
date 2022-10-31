@@ -52,4 +52,5 @@ h1, h2 {
 
 #navigation a:hover {
     border-bottom: 1px solid white;
+    font-weight: 1000;
 }
