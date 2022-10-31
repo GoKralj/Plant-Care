@@ -54,3 +54,9 @@ h1, h2 {
     border-bottom: 1px solid white;
     font-weight: 1000;
 }
+
+/* main image section */
+
+#main-image {
+    height:600px;
+}
