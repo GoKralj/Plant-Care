@@ -70,3 +70,10 @@ h1, h2 {
     overflow: hidden;
     filter: drop-shadow(0 2px 4px #000);
 }
+
+/* About us section */
+
+#about-us {
+    height:600px;
+    text-align: center;
+}
