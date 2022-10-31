@@ -84,4 +84,7 @@ h1, h2 {
 
 #our-story {
     float:left;
+    width: 66%;
+    height: 200px;
+    display: block;
 }
