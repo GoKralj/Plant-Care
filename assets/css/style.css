@@ -6,10 +6,6 @@
     border: none;
 }
 
-header {
-    background-color: #5AAB61;
-}
-
 body {
     font-family: 'Work Sans', sans-serif;
     font-weight: 300;
@@ -29,8 +25,10 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
-    color:black;
+    color:#62BD69;
 }
+
+/* navigation links */
 
 #navigation {
     font-size: 110%;
