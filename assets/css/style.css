@@ -49,3 +49,7 @@ h1, h2 {
     text-decoration: none;
     color: white;
 }
+
+#navigation a:hover {
+    border-bottom: 1px solid white;
+}
