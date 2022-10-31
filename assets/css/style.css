@@ -30,5 +30,15 @@ h1, h2 {
     float: left;
     font-size: 250%;
     color:black;
-    height: 100%;
+}
+
+#navigation {
+    font-size: 110%;
+    letter-spacing: 5px;
+}
+
+#navigation li {
+    float:right;
+    list-style-type: none;
+    margin-right: 30px;
 }
