@@ -40,3 +40,7 @@ h1, h2 {
     list-style-type: none;
     margin-right: 30px;
 }
+
+#navigation a {
+    text-decoration: none;
+}
