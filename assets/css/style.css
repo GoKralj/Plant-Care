@@ -79,3 +79,9 @@ h1, h2 {
 #about-us {
     height: 600px;
 }
+
+#left-about {
+    display:block;
+    float:left;
+    width:66%;
+}
