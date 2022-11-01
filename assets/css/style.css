@@ -81,6 +81,10 @@ h1, h2 {
     padding-top:30px;
 }
 
+#about-us h1 {
+    text-align: center;
+}
+
 #left-about {
     padding-top: 30px;
     float:left;
