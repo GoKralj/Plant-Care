@@ -78,10 +78,17 @@ h1, h2 {
 
 #about-us {
     height: 600px;
+    padding-top:30px;
 }
 
 #left-about {
-    display:block;
+    padding-top: 30px;
     float:left;
     width:66%;
+}
+
+#about-image {
+    padding-top: 30px;
+    float: right;
+    width: 33%;
 }
