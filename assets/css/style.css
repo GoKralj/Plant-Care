@@ -71,20 +71,3 @@ h1, h2 {
     filter: drop-shadow(0 2px 4px #000);
 }
 
-/* About us section */
-
-#about-us {
-    height:600px;
-}
-
-#about-us h1 {
-    text-align: center;
-    margin-top:30px;
-}
-
-#our-story {
-    float:left;
-    width: 66%;
-    height: 200px;
-    display: block;
-}
